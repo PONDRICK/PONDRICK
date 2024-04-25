@@ -2,7 +2,7 @@
 <h3 align="center">Passionate developer from Thailand 🌟</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41Yw23g75w6DH8Uw/giphy.gif" alt="animated" width="300"/>
+  <img src="https://giphy.com/embed/FCffpN404oRZpFbSzl" alt="animated" width="300"/>
 </p>
 
 <p align="center">
@@ -29,7 +29,3 @@ I'm a passionate developer from Thailand, always eager to learn and explore new 
 ## GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pondrick)
-
-## Let's Connect!
-
-If you're interested in collaborating on projects or just want to chat about technology, feel free to reach out! I'm always open to new opportunities and connections.
