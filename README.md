@@ -29,3 +29,9 @@ I'm a passionate developer from Thailand, always eager to learn and explore new 
 ## GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pondrick)
+
+<!--START_SECTION:spotify-->
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=ayud7qjeajdb32pwahqcu61vb&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view.svg?uid=ayud7qjeajdb32pwahqcu61vb)
+
+<!--END_SECTION:spotify-->
