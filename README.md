@@ -2,8 +2,15 @@
 <h3 align="center">Passionate developer from Thailand 🌟</h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3llcXZ6N2Fxd2J6dW81ZnR1ODdoYjF6cXMwM2c2ZWI4eXo1cTA4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FCffpN404oRZpFbSzl/giphy.gif" width="240" autoplay />
+  <img id="profile-gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3llcXZ6N2Fxd2J6dW81ZnR1ODdoYjF6cXMwM2c2ZWI4eXo1cTA4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FCffpN404oRZpFbSzl/giphy.gif" width="240" />
 </p>
+
+<script>
+window.onload = function() {
+  var img = document.getElementById('profile-gif');
+  img.src = img.src; // This line triggers the GIF animation to start
+}
+</script>
 
 <p align="center">
   <a href="mailto:sorrawit.nuernuam@gmail.com"><img src="https://img.shields.io/badge/Email-sorrawit.nuernuam%40gmail.com-red" alt="email"/></a>
