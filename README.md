@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sorrawit.nuernuam@gmail.com"><img src="https://img.shields.io/badge/Email-sorrawit.nuernuam%40gmail.com-red" alt="email"/></a>
-  <a href="https://linkedin.com/in/sorrawit-nuernuam-288b82230/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="linkedin"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100006255493839"><img src="https://img.shields.io/badge/Facebook-Follow-blue" alt="facebook"/></a>
-  <a href="https://www.instagram.com/pondy_zzz/?hl=en"><img src="https://img.shields.io/badge/Instagram-Follow-blue" alt="instagram"/></a>
+  <a href="mailto:sorrawit.nuernuam@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/email-sign.png" alt="email"/></a>
+  <a href="https://linkedin.com/in/sorrawit-nuernuam-288b82230/"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100006255493839"><img src="https://img.icons8.com/ios-filled/50/000000/facebook-circled--v1.png" alt="facebook"/></a>
+  <a href="https://www.instagram.com/pondy_zzz/?hl=en"><img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="instagram"/></a>
 </p>
 
 ## About Me
