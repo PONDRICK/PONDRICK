@@ -2,14 +2,14 @@
 <h3 align="center">Passionate developer from Thailand 🌟</h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3llcXZ6N2Fxd2J6dW81ZnR1ODdoYjF6cXMwM2c2ZWI4eXo1cTA4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FCffpN404oRZpFbSzl/giphy.gif" width="240" autoplay/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3llcXZ6N2Fxd2J6dW81ZnR1ODdoYjF6cXMwM2c2ZWI4eXo1cTA4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FCffpN404oRZpFbSzl/giphy.gif" width="240" autoplay />
 </p>
 
 <p align="center">
-  <a href="mailto:sorrawit.nuernuam@gmail.com"><img src="https://img.shields.io/badge/Email-sorrawit.nuernuam%40gmail.com-red" alt="email"/></a>
-  <a href="https://linkedin.com/in/sorrawit-nuernuam-288b82230/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="linkedin"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100006255493839"><img src="https://img.shields.io/badge/Facebook-Follow-blue" alt="facebook"/></a>
-  <a href="https://www.instagram.com/pondy_zzz/?hl=en"><img src="https://img.shields.io/badge/Instagram-Follow-blue" alt="instagram"/></a>
+  <a href="mailto:sorrawit.nuernuam@gmail.com"><img src="https://img.shields.io/badge/Email-sorrawit.nuernuam%40gmail.com-red" alt="email"/></a>
+  <a href="https://linkedin.com/in/sorrawit-nuernuam-288b82230/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="linkedin"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100006255493839"><img src="https://img.shields.io/badge/Facebook-Follow-blue" alt="facebook"/></a>
+  <a href="https://www.instagram.com/pondy_zzz/?hl=en"><img src="https://img.shields.io/badge/Instagram-Follow-blue" alt="instagram"/></a>
 </p>
 
 ## About Me
