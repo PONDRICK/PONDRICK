@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a passionate developer from Thailand, always eager to learn and explore new technologies. My journey in the world of programming started with a curiosity to build things that make a difference.
+As a fourth year computer science student, I have an interest in programming and am committed to creating projects that enhance people's lives and my own skills. My passion for developer piqued my interest. And I am looking for a job that is consistent with my knowledge and abilities. My goal is to gain valuable experience and grow professionally in this field.
 
 ## Skills
 
