@@ -19,25 +19,33 @@ As a fourth-year computer science student, I have an interest in programming and
 ## Skills
 
 ### Programming Languages
-- C, C++, C#, Java, JavaScript, Python, TypeScript
+- **C, C++, C#**
+- **Java, JavaScript, TypeScript**
+- **Python**
 
 ### Web Development
-- HTML, CSS, JavaScript, React.js, Angular, Node.js, Express.js, Django, Tailwind
+- **Frontend**: HTML, CSS, JavaScript, React.js, Angular, Tailwind
+- **Backend**: Node.js, Express.js, Django
 
 ### Mobile Development
-- Android, React Native
+- **Android**
+- **React Native**
 
 ### Design Tools
-- Figma, Photoshop
+- **Figma**
+- **Photoshop**
 
 ### Databases
-- MySQL, PostgreSQL
+- **MySQL**
+- **PostgreSQL**
 
 ### Version Control
-- Git
+- **Git**
 
-### DevOps
-- Docker
+### DevOps & Tools
+- **Docker**
+- **Postman**
 
-### API Testing
-- Postman
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=pondrick&color=blue)
