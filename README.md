@@ -51,7 +51,7 @@ As a fourth-year computer science student, I have an interest in programming and
 
 ---
 
-### DevOps & Tools
+### Tools
 **Docker**, **Postman**
 
 ---
