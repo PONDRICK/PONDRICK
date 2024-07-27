@@ -16,28 +16,32 @@
 
 As a fourth-year computer science student, I have an interest in programming and am committed to creating projects that enhance people's lives and my own skills. My passion for development piqued my interest. I am looking for a job that is consistent with my knowledge and abilities. My goal is to gain valuable experience and grow professionally in this field.
 
-## Skills
+<details>
+  <summary><b>Skills</b></summary>
 
-### Programming Languages
-**C**, **C++**, **C#**, **Java**, **JavaScript**, **TypeScript**, **Python**
+  ### Programming Languages
+  **C**, **C++**, **C#**, **Java**, **JavaScript**, **TypeScript**, **Python**
 
-### Web Development
-**Frontend**: HTML, CSS, JavaScript, React.js, Angular, Tailwind  
-**Backend**: Node.js, Express.js, Django
+  ### Web Development
+  **Frontend**: HTML, CSS, JavaScript, React.js, Angular, Tailwind  
+  **Backend**: Node.js, Express.js, Django
 
-### Mobile Development
-**Android**, **React Native**
+  ### Mobile Development
+  **Android**, **React Native**
 
-### Design Tools
-**Figma**, **Photoshop**
+  ### Design Tools
+  **Figma**, **Photoshop**
 
-### Databases
-**MySQL**, **PostgreSQL**
+  ### Databases
+  **MySQL**, **PostgreSQL**
 
-### Tools
-**Docker**, **Postman**
+  ### Version Control
+  **Git**
 
----
+  ### Tools
+  **Docker**, **Postman**
+</details>
+
 ## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pondrick&color=blue)
