@@ -20,19 +20,23 @@ As a fourth-year computer science student, I have an interest in programming and
 
 ### Programming Languages
 **C**, **C++**, **C#**, **Java**, **JavaScript**, **TypeScript**, **Python**
+
 ### Web Development
 **Frontend**: HTML, CSS, JavaScript, React.js, Angular, Tailwind  
 **Backend**: Node.js, Express.js, Django
+
 ### Mobile Development
 **Android**, **React Native**
+
 ### Design Tools
 **Figma**, **Photoshop**
+
 ### Databases
 **MySQL**, **PostgreSQL**
-### Version Control
-**Git**
+
 ### Tools
-**Docker**, **Postman**ฃ
+**Docker**, **Postman**
+
 ---
 ## Profile Views
 
